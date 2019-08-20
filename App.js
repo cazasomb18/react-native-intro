@@ -28,3 +28,5 @@ const navigator = createStackNavigator(
 );
 
 export default createAppContainer(navigator);
+
+//package-lock.json security vulnerabilities 999 - 4384 - 4467 - 5629 - 5637 - 7396
